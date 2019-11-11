@@ -1,0 +1,10 @@
+name: CrashedTroll
+version: 2.0.0
+author: CrashedDevelopment | CrashedLife
+main: de.crasheddevelopment.crashedtroll.CrashedTroll
+commands:
+  troll:
+    description: §cTroll another Players!
+
+  crashedtroll:
+    description: §eShows the newest Version + Changelog!

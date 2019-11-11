@@ -1,0 +1,3 @@
+Spigot © Spigot
+Spigot: https://www.spigotmc.org/wiki/about-spigot/
+License: Public License (PUBLIC_SPIGOT_LICENSE.txt)
